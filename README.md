@@ -42,16 +42,16 @@ TBLPROPERTIES("cloudwatchlogs.accesskey"="AWS_ACCESSKEY",
 
 ## Table properties
 
-* cloudwatchlogs.accesskey
+* cloudwatchlogs.accesskey (optional)
 
-* cloudwatchlogs.secretkey
+* cloudwatchlogs.secretkey (optional)
 
-* cloudwatchlogs.loggroup
+* cloudwatchlogs.loggroup (mandatory)
 
-* cloudwatchlogs.streams
+* cloudwatchlogs.streams (optional)
 
-* cloudwatchlogs.datetime.format
+* cloudwatchlogs.datetime.format (optional)
 
-* cloudwatchlogs.starttime
+* cloudwatchlogs.starttime (optional)
 
-* cloudwatchlogs.endtime
+* cloudwatchlogs.endtime (optional)
